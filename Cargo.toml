@@ -1,0 +1,12 @@
+[package]
+name = "intelhex"
+version = "0.1.0"
+authors = ["tohrxyk"]
+edition = "2021"
+description = "A robust Intel HEX format parser and writer"
+license = "MIT"
+repository = "https://github.com/tohrxyk/intelhex"
+keywords = ["intel-hex", "hex", "parser", "embedded"]
+categories = ["encoding", "parser-implementations"]
+
+[dependencies]
