@@ -8,7 +8,7 @@ Add this to your Cargo.toml:
 
 ```toml
 [dependencies]
-intelhex = { git = "https://github.com/tohrxyk/intelhex.git" }
+intelhex-rs = "0.1.1"
 ```
 
 ## Usage
